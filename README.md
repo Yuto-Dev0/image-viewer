@@ -1,7 +1,8 @@
 ## Description
-This software is made using [Tauri](https://tauri.app/), [Next.js](https://nextjs.org/), and [pixi.js](https://pixijs.com/).
+This software is made using [Tauri](https://tauri.app/), [Next.js](https://nextjs.org/), and [pixi.js](https://pixijs.com/). <br>
 Currently have no functionality other than being able to navigate files and view images.
 
+![screenshot1724](https://github.com/user-attachments/assets/e1f3ad05-58c2-4b60-abdf-553db23aff40)
 ## Controls
 - Mouse Click : Pan
 - Scroll Up/Down : Zoom
